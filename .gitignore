@@ -1,0 +1,5 @@
+work
+xsim.dir
+*.log
+*.pb
+.vscode/settings.json
